@@ -1,0 +1,1212 @@
+{
+    usuario ={
+        "id_usuario" = "users_1";
+        nombre = ekoobot;
+        proyectos ={
+            item =(
+                {
+                    key = 0;
+                    proyecto ={
+                        actualizado = "2012-08-21 16:09:32";
+                        "id_proyecto" = "projects_1";
+                        imagen = "http://www.ekoomedia.com.co/ekoobot3d/web/files/images/project/1712528223.jpg";
+                        logo = "http://www.ekoomedia.com.co/ekoobot3d/web/files/images/project/429442596.jpg";
+                        nombre = "Project 1";
+                        "planta_urbana" ={
+                            actualizado = "2012-08-10 16:53:57";
+                            "id_urbanizacion" = 1;
+                            planta = "http://www.ekoomedia.com.co/ekoobot3d/web/files/images/urbanizations/urbanismo.jpg";
+                            existe = 1;
+                            grupos ={
+                                item =(
+                                    {
+                                        key = 0;
+                                        grupo ={
+                                            existe = 1;
+                                            "id_grupo" = "groups_1";
+                                            nombre = "Torre A";
+                                            "x_coord" = 320;
+                                            "y_coord" = 286;
+                                            "pisos_tipo" ={
+                                                item ={
+                                                    key = 0;
+                                                    "piso_tipo" ={
+                                                        actualizado = "2012-08-16 16:11:38";
+                                                        existe = 1;
+                                                        "id_piso_tipo" = "floors_1";
+                                                        map = "http://www.ekoomedia.com.co/ekoobot3d/web/files/images/01/Tipo_de_Pisos/tipo_piso1.jpg";
+                                                        productos ={
+                                                            item =(
+                                                                {
+                                                                    key = 0;
+                                                                    producto ={
+                                                                        actualizado = "2012-08-21 10:56:58";
+                                                                        area = 100mt2;
+                                                                        "id_producto" = "products_1";
+                                                                        nombre = Apto;
+                                                                        plantas ={
+                                                                            item =(
+                                                                                {
+                                                                                    key = 0;
+                                                                                    planta ={
+                                                                                        espacios =                                                                                         {
+                                                                                            item =                                                                                             (
+                                                                                                                                                                                                {
+                                                                                                    espacio =                                                                                                     {
+                                                                                                        actualizado = "2012-08-08 14:55:58";
+                                                                                                        caras =                                                                                                         {
+                                                                                                            item =                                                                                                             (
+                                                                                                                                                                                                                                {
+                                                                                                                    cara = front;
+                                                                                                                    "id_imagen" = "finishImage_1";
+                                                                                                                    imagen = "http://www.ekoomedia.com.co/ekoobot3d/web/files/images/caras/1.jpg";
+                                                                                                                },
+                                                                                                                                                                                                                                {
+                                                                                                                    cara = right;
+                                                                                                                    "id_imagen" = "finishImage_2";
+                                                                                                                    imagen = "http://www.ekoomedia.com.co/ekoobot3d/web/files/images/caras/2.jpg";
+                                                                                                                },
+                                                                                                                                                                                                                                {
+                                                                                                                    cara = back;
+                                                                                                                    "id_imagen" = "finishImage_3";
+                                                                                                                    imagen = "http://www.ekoomedia.com.co/ekoobot3d/web/files/images/caras/3.jpg";
+                                                                                                                },
+                                                                                                                                                                                                                                {
+                                                                                                                    cara = left;
+                                                                                                                    "id_imagen" = "finishImage_4";
+                                                                                                                    imagen = "http://www.ekoomedia.com.co/ekoobot3d/web/files/images/caras/4.jpg";
+                                                                                                                },
+                                                                                                                                                                                                                                {
+                                                                                                                    cara = top;
+                                                                                                                    "id_imagen" = "finishImage_5";
+                                                                                                                    imagen = "http://www.ekoomedia.com.co/ekoobot3d/web/files/images/caras/5.jpg";
+                                                                                                                },
+                                                                                                                                                                                                                                {
+                                                                                                                    cara = down;
+                                                                                                                    "id_imagen" = "finishImage_6";
+                                                                                                                    imagen = "http://www.ekoomedia.com.co/ekoobot3d/web/files/images/caras/6.jpg";
+                                                                                                                }
+                                                                                                            );
+                                                                                                        };
+                                                                                                        "id_espacio" = 1;
+                                                                                                        nombre = Sala;
+                                                                                                        "x_coord" = 400;
+                                                                                                        "y_coord" = 500;
+                                                                                                    };
+                                                                                                    key = 0;
+                                                                                                },
+                                                                                                                                                                                                {
+                                                                                                    espacio =                                                                                                     {
+                                                                                                        actualizado = "2012-08-08 14:55:58";
+                                                                                                        caras =                                                                                                         {
+                                                                                                            item =                                                                                                             (
+                                                                                                                                                                                                                                {
+                                                                                                                    cara = front;
+                                                                                                                    "id_imagen" = "finishImage_1";
+                                                                                                                    imagen = "http://www.ekoomedia.com.co/ekoobot3d/web/files/images/caras/1.jpg";
+                                                                                                                },
+                                                                                                                                                                                                                                {
+                                                                                                                    cara = right;
+                                                                                                                    "id_imagen" = "finishImage_2";
+                                                                                                                    imagen = "http://www.ekoomedia.com.co/ekoobot3d/web/files/images/caras/2.jpg";
+                                                                                                                },
+                                                                                                                                                                                                                                {
+                                                                                                                    cara = back;
+                                                                                                                    "id_imagen" = "finishImage_3";
+                                                                                                                    imagen = "http://www.ekoomedia.com.co/ekoobot3d/web/files/images/caras/3.jpg";
+                                                                                                                },
+                                                                                                                                                                                                                                {
+                                                                                                                    cara = left;
+                                                                                                                    "id_imagen" = "finishImage_4";
+                                                                                                                    imagen = "http://www.ekoomedia.com.co/ekoobot3d/web/files/images/caras/4.jpg";
+                                                                                                                },
+                                                                                                                                                                                                                                {
+                                                                                                                    cara = top;
+                                                                                                                    "id_imagen" = "finishImage_5";
+                                                                                                                    imagen = "http://www.ekoomedia.com.co/ekoobot3d/web/files/images/caras/5.jpg";
+                                                                                                                },
+                                                                                                                                                                                                                                {
+                                                                                                                    cara = down;
+                                                                                                                    "id_imagen" = "finishImage_6";
+                                                                                                                    imagen = "http://www.ekoomedia.com.co/ekoobot3d/web/files/images/caras/6.jpg";
+                                                                                                                }
+                                                                                                            );
+                                                                                                        };
+                                                                                                        "id_espacio" = 3;
+                                                                                                        nombre = Comedor;
+                                                                                                        "x_coord" = 500;
+                                                                                                        "y_coord" = 200;
+                                                                                                    };
+                                                                                                    key = 1;
+                                                                                                }
+                                                                                            );
+                                                                                        };
+                                                                                        "id_planta" = 1;
+                                                                                        map = "http://www.ekoomedia.com.co/ekoobot3d/web/files/images/01/Tipo_de_Plantas/planta1.jpg";
+                                                                                    };
+                                                                                },
+                                                                                {
+                                                                                    key = 1;
+                                                                                    planta ={
+                                                                                        espacios =                                                                                         {
+                                                                                            item =                                                                                             {
+                                                                                                espacio =                                                                                                 {
+                                                                                                    actualizado = "2012-08-08 14:55:58";
+                                                                                                    caras =                                                                                                     {
+                                                                                                        item =                                                                                                         (
+                                                                                                                                                                                                                        {
+                                                                                                                cara = front;
+                                                                                                                "id_imagen" = "finishImage_1";
+                                                                                                                imagen = "http://www.ekoomedia.com.co/ekoobot3d/web/files/images/caras/1.jpg";
+                                                                                                            },
+                                                                                                                                                                                                                        {
+                                                                                                                cara = right;
+                                                                                                                "id_imagen" = "finishImage_2";
+                                                                                                                imagen = "http://www.ekoomedia.com.co/ekoobot3d/web/files/images/caras/2.jpg";
+                                                                                                            },
+                                                                                                                                                                                                                        {
+                                                                                                                cara = back;
+                                                                                                                "id_imagen" = "finishImage_3";
+                                                                                                                imagen = "http://www.ekoomedia.com.co/ekoobot3d/web/files/images/caras/3.jpg";
+                                                                                                            },
+                                                                                                                                                                                                                        {
+                                                                                                                cara = left;
+                                                                                                                "id_imagen" = "finishImage_4";
+                                                                                                                imagen = "http://www.ekoomedia.com.co/ekoobot3d/web/files/images/caras/4.jpg";
+                                                                                                            },
+                                                                                                                                                                                                                        {
+                                                                                                                cara = top;
+                                                                                                                "id_imagen" = "finishImage_5";
+                                                                                                                imagen = "http://www.ekoomedia.com.co/ekoobot3d/web/files/images/caras/5.jpg";
+                                                                                                            },
+                                                                                                                                                                                                                        {
+                                                                                                                cara = down;
+                                                                                                                "id_imagen" = "finishImage_6";
+                                                                                                                imagen = "http://www.ekoomedia.com.co/ekoobot3d/web/files/images/caras/6.jpg";
+                                                                                                            }
+                                                                                                        );
+                                                                                                    };
+                                                                                                    "id_espacio" = 5;
+                                                                                                    nombre = Cocina;
+                                                                                                    "x_coord" = 100;
+                                                                                                    "y_coord" = 234;
+                                                                                                };
+                                                                                                key = 2;
+                                                                                            };
+                                                                                        };
+                                                                                        "id_planta" = 2;
+                                                                                        map = "http://www.ekoomedia.com.co/ekoobot3d/web/files/images/01/Tipo_de_Plantas/planta1.jpg";
+                                                                                    };
+                                                                                },
+                                                                                {
+                                                                                    key = 2;
+                                                                                    planta ={
+                                                                                        espacios =                                                                                         {
+                                                                                            item =                                                                                             (
+                                                                                                                                                                                                {
+                                                                                                    espacio =                                                                                                     {
+                                                                                                        actualizado = "2012-08-08 14:55:58";
+                                                                                                        caras =                                                                                                         {
+                                                                                                            item =                                                                                                             (
+                                                                                                                                                                                                                                {
+                                                                                                                    cara = front;
+                                                                                                                    "id_imagen" = "finishImage_1";
+                                                                                                                    imagen = "http://www.ekoomedia.com.co/ekoobot3d/web/files/images/caras/1.jpg";
+                                                                                                                },
+                                                                                                                                                                                                                                {
+                                                                                                                    cara = right;
+                                                                                                                    "id_imagen" = "finishImage_2";
+                                                                                                                    imagen = "http://www.ekoomedia.com.co/ekoobot3d/web/files/images/caras/2.jpg";
+                                                                                                                },
+                                                                                                                                                                                                                                {
+                                                                                                                    cara = back;
+                                                                                                                    "id_imagen" = "finishImage_3";
+                                                                                                                    imagen = "http://www.ekoomedia.com.co/ekoobot3d/web/files/images/caras/3.jpg";
+                                                                                                                },
+                                                                                                                                                                                                                                {
+                                                                                                                    cara = left;
+                                                                                                                    "id_imagen" = "finishImage_4";
+                                                                                                                    imagen = "http://www.ekoomedia.com.co/ekoobot3d/web/files/images/caras/4.jpg";
+                                                                                                                },
+                                                                                                                                                                                                                                {
+                                                                                                                    cara = top;
+                                                                                                                    "id_imagen" = "finishImage_5";
+                                                                                                                    imagen = "http://www.ekoomedia.com.co/ekoobot3d/web/files/images/caras/5.jpg";
+                                                                                                                },
+                                                                                                                                                                                                                                {
+                                                                                                                    cara = down;
+                                                                                                                    "id_imagen" = "finishImage_6";
+                                                                                                                    imagen = "http://www.ekoomedia.com.co/ekoobot3d/web/files/images/caras/6.jpg";
+                                                                                                                }
+                                                                                                            );
+                                                                                                        };
+                                                                                                        "id_espacio" = 4;
+                                                                                                        nombre = "Ba\U00f1o";
+                                                                                                        "x_coord" = 300;
+                                                                                                        "y_coord" = 200;
+                                                                                                    };
+                                                                                                    key = 3;
+                                                                                                },
+                                                                                                                                                                                                {
+                                                                                                    espacio =                                                                                                     {
+                                                                                                        actualizado = "2012-08-08 14:55:58";
+                                                                                                        caras =                                                                                                         {
+                                                                                                            item =                                                                                                             (
+                                                                                                                                                                                                                                {
+                                                                                                                    cara = front;
+                                                                                                                    "id_imagen" = "finishImage_1";
+                                                                                                                    imagen = "http://www.ekoomedia.com.co/ekoobot3d/web/files/images/caras/1.jpg";
+                                                                                                                },
+                                                                                                                                                                                                                                {
+                                                                                                                    cara = right;
+                                                                                                                    "id_imagen" = "finishImage_2";
+                                                                                                                    imagen = "http://www.ekoomedia.com.co/ekoobot3d/web/files/images/caras/2.jpg";
+                                                                                                                },
+                                                                                                                                                                                                                                {
+                                                                                                                    cara = back;
+                                                                                                                    "id_imagen" = "finishImage_3";
+                                                                                                                    imagen = "http://www.ekoomedia.com.co/ekoobot3d/web/files/images/caras/3.jpg";
+                                                                                                                },
+                                                                                                                                                                                                                                {
+                                                                                                                    cara = left;
+                                                                                                                    "id_imagen" = "finishImage_4";
+                                                                                                                    imagen = "http://www.ekoomedia.com.co/ekoobot3d/web/files/images/caras/4.jpg";
+                                                                                                                },
+                                                                                                                                                                                                                                {
+                                                                                                                    cara = top;
+                                                                                                                    "id_imagen" = "finishImage_5";
+                                                                                                                    imagen = "http://www.ekoomedia.com.co/ekoobot3d/web/files/images/caras/5.jpg";
+                                                                                                                },
+                                                                                                                                                                                                                                {
+                                                                                                                    cara = down;
+                                                                                                                    "id_imagen" = "finishImage_6";
+                                                                                                                    imagen = "http://www.ekoomedia.com.co/ekoobot3d/web/files/images/caras/6.jpg";
+                                                                                                                }
+                                                                                                            );
+                                                                                                        };
+                                                                                                        "id_espacio" = 6;
+                                                                                                        nombre = Sala;
+                                                                                                        "x_coord" = 500;
+                                                                                                        "y_coord" = 500;
+                                                                                                    };
+                                                                                                    key = 4;
+                                                                                                }
+                                                                                            );
+                                                                                        };
+                                                                                        "id_planta" = 3;
+                                                                                        map = "http://www.ekoomedia.com.co/ekoobot3d/web/files/images/01/Tipo_de_Plantas/planta1.jpg";
+                                                                                    };
+                                                                                }
+                                                                            );
+                                                                        };
+                                                                        tipo = Apto;
+                                                                        "x_coord" = 102;
+                                                                        "y_coord" = 115;
+                                                                    };
+                                                                },
+                                                                {
+                                                                    key = 1;
+                                                                    producto ={
+                                                                        actualizado = "2012-08-21 10:55:06";
+                                                                        area = 2000mt2;
+                                                                        tipo = Apto;
+                                                                        "x_coord" = 512;
+                                                                        "y_coord" = 622;
+                                                                        "id_producto" = "products_6";
+                                                                        nombre = "Apto 2";
+                                                                        plantas =                                                                         {
+                                                                            item =                                                                             {
+                                                                                key = 3;
+                                                                                planta =                                                                                 {
+                                                                                    "id_planta" = 10;
+                                                                                    map = "http://www.ekoomedia.com.co/ekoobot3d/web/files/images/01/Tipo_de_Plantas/planta1.jpg";
+                                                                                };
+                                                                            };
+                                                                        };
+                                                                        
+                                                                    };
+                                                                },
+                                                                {
+                                                                //falta contenido, este elemento no lleva a nada
+                                                                    key = 2;
+                                                                    producto ={
+                                                                        actualizado = "2012-08-21 10:28:42";
+                                                                        "id_producto" = "products_7";
+                                                                        nombre = Oficina;
+                                                                        tipo = Oficina;
+                                                                        "x_coord" = 497;
+                                                                        "y_coord" = 455;
+                                                                        area ={
+                                                                            "@xsi:nil" = true;
+                                                                        };
+                                                                        
+                                                                    };
+                                                                }
+                                                            );
+                                                        };
+                                                    };
+                                                };
+                                            };
+                                        };
+                                    },
+                                    {
+                                        key = 1;
+                                        grupo ={
+                                            existe = 0;
+                                            "id_grupo" = "urbanizationspaces_1";
+                                            nombre = GYM;
+                                            "pisos_tipo" =                                             {
+                                                item =                                                 {
+                                                    key = 0;
+                                                    "piso_tipo" =                                                     {
+                                                        actualizado =                                                         {
+                                                            "@xsi:nil" = true;
+                                                        };
+                                                        existe = 0;
+                                                        "id_piso_tipo" = "floors_areacomun_1";
+                                                        map =                                                         {
+                                                            "@xsi:nil" = true;
+                                                        };
+                                                        productos =                                                         {
+                                                            item =                                                             {
+                                                                key = 0;
+                                                                producto =                                                                 {
+                                                                    actualizado =                                                                     {
+                                                                        "@xsi:nil" = true;
+                                                                    };
+                                                                    area =                                                                     {
+                                                                        "@xsi:nil" = true;
+                                                                    };
+                                                                    "id_producto" = "products_areacomun_1";
+                                                                    nombre =                                                                     {
+                                                                        "@xsi:nil" = true;
+                                                                    };
+                                                                    plantas =                                                                     {
+                                                                        item =                                                                         {
+                                                                            key = 4;
+                                                                            planta =                                                                             {
+                                                                                espacios =                                                                                 {
+                                                                                    item =                                                                                     {
+                                                                                        espacio =                                                                                         {
+                                                                                            actualizado = "2012-08-08 14:21:19";
+                                                                                            caras =                                                                                             {
+                                                                                                item =                                                                                                 (
+                                                                                                                                                                                                        {
+                                                                                                        cara = front;
+                                                                                                        "id_imagen" = "urbanizationImage_1";
+                                                                                                        imagen = "http://www.ekoomedia.com.co/ekoobot3d/web/files/images/caras/1.jpg";
+                                                                                                    },
+                                                                                                                                                                                                        {
+                                                                                                        cara = right;
+                                                                                                        "id_imagen" = "urbanizationImage_2";
+                                                                                                        imagen = "http://www.ekoomedia.com.co/ekoobot3d/web/files/images/caras/2.jpg";
+                                                                                                    },
+                                                                                                                                                                                                        {
+                                                                                                        cara = back;
+                                                                                                        "id_imagen" = "urbanizationImage_3";
+                                                                                                        imagen = "http://www.ekoomedia.com.co/ekoobot3d/web/files/images/caras/3.jpg";
+                                                                                                    },
+                                                                                                                                                                                                        {
+                                                                                                        cara = left;
+                                                                                                        "id_imagen" = "urbanizationImage_4";
+                                                                                                        imagen = "http://www.ekoomedia.com.co/ekoobot3d/web/files/images/caras/4.jpg";
+                                                                                                    },
+                                                                                                                                                                                                        {
+                                                                                                        cara = top;
+                                                                                                        "id_imagen" = "urbanizationImage_5";
+                                                                                                        imagen = "http://www.ekoomedia.com.co/ekoobot3d/web/files/images/caras/5.jpg";
+                                                                                                    },
+                                                                                                                                                                                                        {
+                                                                                                        cara = down;
+                                                                                                        "id_imagen" = "urbanizationImage_6";
+                                                                                                        imagen = "http://www.ekoomedia.com.co/ekoobot3d/web/files/images/caras/6.jpg";
+                                                                                                    },
+                                                                                                                                                                                                        {
+                                                                                                        cara = down;
+                                                                                                        "id_imagen" = "urbanizationImage_12";
+                                                                                                        imagen = "http://www.ekoomedia.com.co/ekoobot3d/web/files/images/caras/6.jpg";
+                                                                                                    }
+                                                                                                );
+                                                                                            };
+                                                                                            "id_espacio" = "space_areacomun_1";
+                                                                                            nombre = GYM;
+                                                                                            "x_coord" =                                                                                             {
+                                                                                                "@xsi:nil" = true;
+                                                                                            };
+                                                                                            "y_coord" =                                                                                             {
+                                                                                                "@xsi:nil" = true;
+                                                                                            };
+                                                                                        };
+                                                                                        key = 5;
+                                                                                    };
+                                                                                };
+                                                                                "id_planta" = "plants_areacomun_1";
+                                                                                map =                                                                                 {
+                                                                                    "@xsi:nil" = true;
+                                                                                };
+                                                                            };
+                                                                        };
+                                                                    };
+                                                                    tipo =                                                                     {
+                                                                        "@xsi:nil" = true;
+                                                                    };
+                                                                    "x_coord" =                                                                     {
+                                                                        "@xsi:nil" = true;
+                                                                    };
+                                                                    "y_coord" =                                                                     {
+                                                                        "@xsi:nil" = true;
+                                                                    };
+                                                                };
+                                                            };
+                                                        };
+                                                    };
+                                                };
+                                            };
+                                            "x_coord" = 700;
+                                            "y_coord" = 760;
+                                        };
+                                    }
+                                );
+                            };
+                            
+                        };
+                    };
+                },
+                {
+                    key = 1;
+                    proyecto ={
+                        actualizado = "2012-08-21 16:10:24";
+                        "id_proyecto" = "projects_2";
+                        imagen = "http://www.ekoomedia.com.co/ekoobot3d/web/files/images/project/1712528223.jpg";
+                        logo = "http://www.ekoomedia.com.co/ekoobot3d/web/files/images/project/429442596.jpg";
+                        nombre = "Project 2";
+                        "planta_urbana" ={
+                        //Si no tiene urbanismo es porque solo es un grupo
+                            existe = 0;
+                            "id_urbanizacion" ={
+                                "@xsi:nil" = true;
+                            };
+                            planta ={
+                                "@xsi:nil" = true;
+                            };
+                            actualizado ={
+                                "@xsi:nil" = true;
+                            };
+                            grupos ={
+                                item ={
+                                    grupo ={
+                                        existe = 1;
+                                        "id_grupo" = "groups_3";
+                                        nombre = "Torre b";
+                                        "x_coord" ={
+                                            "@xsi:nil" = true;
+                                        };
+                                        "y_coord" ={
+                                            "@xsi:nil" = true;
+                                        };
+                                        "pisos_tipo" ={
+                                            item ={
+                                                key = 0;
+                                                "piso_tipo" ={
+                                                    actualizado = "2012-08-16 16:11:38";
+                                                    existe = 1;
+                                                    "id_piso_tipo" = "floors_2";
+                                                    map = "http://www.ekoomedia.com.co/ekoobot3d/web/files/images/01/Tipo_de_Pisos/tipo_piso1.jpg";
+                                                    productos ={
+                                                        item ={
+                                                            key = 0;
+                                                            producto ={
+                                                                actualizado = "2012-08-17 11:27:29";
+                                                                area = 200mt2;
+                                                                tipo = Oficina;
+                                                                "x_coord" = 300;
+                                                                "y_coord" = 200;
+                                                                "id_producto" = "products_2";
+                                                                nombre = "Oficina a";
+                                                                plantas ={
+                                                                    item ={
+                                                                        key = 5;
+                                                                        planta ={
+                                                                        	"id_planta" = 4;
+                                                                            map = "http://www.ekoomedia.com.co/ekoobot3d/web/files/images/01/Tipo_de_Plantas/planta1.jpg";
+                                                                            espacios ={
+                                                                                item ={
+                                                                                    key = 6;
+                                                                                    espacio ={
+                                                                                        actualizado = "2012-08-08 14:55:58";
+                                                                                        "id_espacio" = 7;
+                                                                                        nombre = Comedor;
+                                                                                        "x_coord" = 200;
+                                                                                        "y_coord" = 300;
+                                                                                        caras ={
+                                                                                            item =(
+                                                                                                {
+                                                                                                    cara = front;
+                                                                                                    "id_imagen" = "finishImage_1";
+                                                                                                    imagen = "http://www.ekoomedia.com.co/ekoobot3d/web/files/images/caras/1.jpg";
+                                                                                                },
+                                                                                                                                                                                                {
+                                                                                                    cara = right;
+                                                                                                    "id_imagen" = "finishImage_2";
+                                                                                                    imagen = "http://www.ekoomedia.com.co/ekoobot3d/web/files/images/caras/2.jpg";
+                                                                                                },
+                                                                                                                                                                                                {
+                                                                                                    cara = back;
+                                                                                                    "id_imagen" = "finishImage_3";
+                                                                                                    imagen = "http://www.ekoomedia.com.co/ekoobot3d/web/files/images/caras/3.jpg";
+                                                                                                },
+                                                                                                                                                                                                {
+                                                                                                    cara = left;
+                                                                                                    "id_imagen" = "finishImage_4";
+                                                                                                    imagen = "http://www.ekoomedia.com.co/ekoobot3d/web/files/images/caras/4.jpg";
+                                                                                                },
+                                                                                                                                                                                                {
+                                                                                                    cara = top;
+                                                                                                    "id_imagen" = "finishImage_5";
+                                                                                                    imagen = "http://www.ekoomedia.com.co/ekoobot3d/web/files/images/caras/5.jpg";
+                                                                                                },
+                                                                                                                                                                                                {
+                                                                                                    cara = down;
+                                                                                                    "id_imagen" = "finishImage_6";
+                                                                                                    imagen = "http://www.ekoomedia.com.co/ekoobot3d/web/files/images/caras/6.jpg";
+                                                                                                }
+                                                                                            );
+                                                                                        };
+                                                                                    };
+                                                                                };
+                                                                            };
+                                                                        };
+                                                                    };
+                                                                };
+                                                            };
+                                                        };
+                                                    };
+                                                };
+                                            };
+                                        };
+                                    };
+                                    key = 0;
+                                };
+                            };
+                            
+                        };
+                    };
+                },
+                {
+                    key = 2;
+                    proyecto ={
+                        actualizado = "2012-08-21 16:10:25";
+                        "id_proyecto" = "projects_3";
+                        imagen = "http://www.ekoomedia.com.co/ekoobot3d/web/files/images/project/1712528223.jpg";
+                        logo = "http://www.ekoomedia.com.co/ekoobot3d/web/files/images/project/429442596.jpg";
+                        nombre = Ksas;
+                        "planta_urbana" =                         {
+                            actualizado = "2012-08-14 12:24:29";
+                            existe = 1;
+                            grupos =                             {
+                                item =                                 {
+                                    grupo =                                     {
+                                        existe = 0;
+                                        "id_grupo" = "groups_4";
+                                        nombre = "Casa 52";
+                                        "pisos_tipo" =                                         {
+                                            item =                                             {
+                                                key = 0;
+                                                "piso_tipo" =                                                 {
+                                                    actualizado =                                                     {
+                                                        "@xsi:nil" = true;
+                                                    };
+                                                    existe = 0;
+                                                    "id_piso_tipo" = "floors_3";
+                                                    map = "http://www.ekoomedia.com.co/ekoobot3d/web/";
+                                                    productos =                                                     {
+                                                        item =                                                         {
+                                                            key = 0;
+                                                            producto =                                                             {
+                                                                actualizado = "2012-08-17 11:27:16";
+                                                                area = 240mt2;
+                                                                "id_producto" = "products_3";
+                                                                nombre = "Casa 52";
+                                                                plantas =                                                                 {
+                                                                    item =                                                                     (
+                                                                                                                                                {
+                                                                            key = 6;
+                                                                            planta =                                                                             {
+                                                                                espacios =                                                                                 {
+                                                                                    item =                                                                                     {
+                                                                                        espacio =                                                                                         {
+                                                                                            actualizado = "2012-08-08 14:55:58";
+                                                                                            caras =                                                                                             {
+                                                                                                item =                                                                                                 (
+                                                                                                                                                                                                        {
+                                                                                                        cara = front;
+                                                                                                        "id_imagen" = "finishImage_1";
+                                                                                                        imagen = "http://www.ekoomedia.com.co/ekoobot3d/web/files/images/caras/1.jpg";
+                                                                                                    },
+                                                                                                                                                                                                        {
+                                                                                                        cara = right;
+                                                                                                        "id_imagen" = "finishImage_2";
+                                                                                                        imagen = "http://www.ekoomedia.com.co/ekoobot3d/web/files/images/caras/2.jpg";
+                                                                                                    },
+                                                                                                                                                                                                        {
+                                                                                                        cara = back;
+                                                                                                        "id_imagen" = "finishImage_3";
+                                                                                                        imagen = "http://www.ekoomedia.com.co/ekoobot3d/web/files/images/caras/3.jpg";
+                                                                                                    },
+                                                                                                                                                                                                        {
+                                                                                                        cara = left;
+                                                                                                        "id_imagen" = "finishImage_4";
+                                                                                                        imagen = "http://www.ekoomedia.com.co/ekoobot3d/web/files/images/caras/4.jpg";
+                                                                                                    },
+                                                                                                                                                                                                        {
+                                                                                                        cara = top;
+                                                                                                        "id_imagen" = "finishImage_5";
+                                                                                                        imagen = "http://www.ekoomedia.com.co/ekoobot3d/web/files/images/caras/5.jpg";
+                                                                                                    },
+                                                                                                                                                                                                        {
+                                                                                                        cara = down;
+                                                                                                        "id_imagen" = "finishImage_6";
+                                                                                                        imagen = "http://www.ekoomedia.com.co/ekoobot3d/web/files/images/caras/6.jpg";
+                                                                                                    }
+                                                                                                );
+                                                                                            };
+                                                                                            "id_espacio" = 8;
+                                                                                            nombre = "Alcoba Princ";
+                                                                                            "x_coord" = 100;
+                                                                                            "y_coord" = 80;
+                                                                                        };
+                                                                                        key = 7;
+                                                                                    };
+                                                                                };
+                                                                                "id_planta" = 5;
+                                                                                map = "http://www.ekoomedia.com.co/ekoobot3d/web/files/images/01/Tipo_de_Plantas/planta1.jpg";
+                                                                            };
+                                                                        },
+                                                                                                                                                {
+                                                                            key = 7;
+                                                                            planta =                                                                             {
+                                                                                espacios =                                                                                 {
+                                                                                    item =                                                                                     {
+                                                                                        espacio =                                                                                         {
+                                                                                            actualizado = "2012-08-08 14:55:58";
+                                                                                            caras =                                                                                             {
+                                                                                                item =                                                                                                 (
+                                                                                                                                                                                                        {
+                                                                                                        cara = front;
+                                                                                                        "id_imagen" = "finishImage_1";
+                                                                                                        imagen = "http://www.ekoomedia.com.co/ekoobot3d/web/files/images/caras/1.jpg";
+                                                                                                    },
+                                                                                                                                                                                                        {
+                                                                                                        cara = right;
+                                                                                                        "id_imagen" = "finishImage_2";
+                                                                                                        imagen = "http://www.ekoomedia.com.co/ekoobot3d/web/files/images/caras/2.jpg";
+                                                                                                    },
+                                                                                                                                                                                                        {
+                                                                                                        cara = back;
+                                                                                                        "id_imagen" = "finishImage_3";
+                                                                                                        imagen = "http://www.ekoomedia.com.co/ekoobot3d/web/files/images/caras/3.jpg";
+                                                                                                    },
+                                                                                                                                                                                                        {
+                                                                                                        cara = left;
+                                                                                                        "id_imagen" = "finishImage_4";
+                                                                                                        imagen = "http://www.ekoomedia.com.co/ekoobot3d/web/files/images/caras/4.jpg";
+                                                                                                    },
+                                                                                                                                                                                                        {
+                                                                                                        cara = top;
+                                                                                                        "id_imagen" = "finishImage_5";
+                                                                                                        imagen = "http://www.ekoomedia.com.co/ekoobot3d/web/files/images/caras/5.jpg";
+                                                                                                    },
+                                                                                                                                                                                                        {
+                                                                                                        cara = down;
+                                                                                                        "id_imagen" = "finishImage_6";
+                                                                                                        imagen = "http://www.ekoomedia.com.co/ekoobot3d/web/files/images/caras/6.jpg";
+                                                                                                    }
+                                                                                                );
+                                                                                            };
+                                                                                            "id_espacio" = 9;
+                                                                                            nombre = Estudio;
+                                                                                            "x_coord" = 50;
+                                                                                            "y_coord" = 60;
+                                                                                        };
+                                                                                        key = 8;
+                                                                                    };
+                                                                                };
+                                                                                "id_planta" = 6;
+                                                                                map = "http://www.ekoomedia.com.co/ekoobot3d/web/files/images/01/Tipo_de_Plantas/planta1.jpg";
+                                                                            };
+                                                                        }
+                                                                    );
+                                                                };
+                                                                tipo = Casa;
+                                                                "x_coord" = 200;
+                                                                "y_coord" = 200;
+                                                            };
+                                                        };
+                                                    };
+                                                };
+                                            };
+                                        };
+                                        "x_coord" = 323;
+                                        "y_coord" = 277;
+                                    };
+                                    key = 0;
+                                };
+                            };
+                            "id_urbanizacion" = 5;
+                            planta = "http://www.ekoomedia.com.co/ekoobot3d/web/files/images/urbanizations/urbanismo.jpg";
+                        };
+                    };
+                },
+                {
+                    key = 3;
+                    proyecto ={
+                        actualizado = "2012-08-21 16:10:25";
+                        "id_proyecto" = "projects_4";
+                        imagen = "http://www.ekoomedia.com.co/ekoobot3d/web/files/images/project/1712528223.jpg";
+                        logo = "http://www.ekoomedia.com.co/ekoobot3d/web/files/images/project/429442596.jpg";
+                        nombre = Ksas2;
+                        "planta_urbana" =                         {
+                            actualizado = "2012-08-14 14:54:45";
+                            existe = 1;
+                            grupos =                             {
+                                item =                                 (
+                                                                        {
+                                        grupo =                                         {
+                                            existe = 1;
+                                            "id_grupo" = "groups_5";
+                                            nombre = Barrio;
+                                            "pisos_tipo" =                                             {
+                                                item =                                                 {
+                                                    key = 0;
+                                                    "piso_tipo" =                                                     {
+                                                        actualizado = "2012-08-16 16:11:38";
+                                                        existe = 0;
+                                                        "id_piso_tipo" = "floors_4";
+                                                        map = "http://www.ekoomedia.com.co/ekoobot3d/web/files/images/01/Tipo_de_Pisos/tipo_piso1.jpg";
+                                                        productos =                                                         {
+                                                            item =                                                             {
+                                                                key = 0;
+                                                                producto =                                                                 {
+                                                                    actualizado = "2012-08-17 11:27:19";
+                                                                    area = 500mt2;
+                                                                    "id_producto" = "products_4";
+                                                                    nombre = Casa12;
+                                                                    plantas =                                                                     {
+                                                                        item =                                                                         (
+                                                                                                                                                        {
+                                                                                key = 8;
+                                                                                planta =                                                                                 {
+                                                                                    espacios =                                                                                     {
+                                                                                        item =                                                                                         (
+                                                                                                                                                                                        {
+                                                                                                espacio =                                                                                                 {
+                                                                                                    actualizado = "2012-08-08 14:55:58";
+                                                                                                    caras =                                                                                                     {
+                                                                                                        item =                                                                                                         (
+                                                                                                                                                                                                                        {
+                                                                                                                cara = front;
+                                                                                                                "id_imagen" = "finishImage_1";
+                                                                                                                imagen = "http://www.ekoomedia.com.co/ekoobot3d/web/files/images/caras/1.jpg";
+                                                                                                            },
+                                                                                                                                                                                                                        {
+                                                                                                                cara = right;
+                                                                                                                "id_imagen" = "finishImage_2";
+                                                                                                                imagen = "http://www.ekoomedia.com.co/ekoobot3d/web/files/images/caras/2.jpg";
+                                                                                                            },
+                                                                                                                                                                                                                        {
+                                                                                                                cara = back;
+                                                                                                                "id_imagen" = "finishImage_3";
+                                                                                                                imagen = "http://www.ekoomedia.com.co/ekoobot3d/web/files/images/caras/3.jpg";
+                                                                                                            },
+                                                                                                                                                                                                                        {
+                                                                                                                cara = left;
+                                                                                                                "id_imagen" = "finishImage_4";
+                                                                                                                imagen = "http://www.ekoomedia.com.co/ekoobot3d/web/files/images/caras/4.jpg";
+                                                                                                            },
+                                                                                                                                                                                                                        {
+                                                                                                                cara = top;
+                                                                                                                "id_imagen" = "finishImage_5";
+                                                                                                                imagen = "http://www.ekoomedia.com.co/ekoobot3d/web/files/images/caras/5.jpg";
+                                                                                                            },
+                                                                                                                                                                                                                        {
+                                                                                                                cara = down;
+                                                                                                                "id_imagen" = "finishImage_6";
+                                                                                                                imagen = "http://www.ekoomedia.com.co/ekoobot3d/web/files/images/caras/6.jpg";
+                                                                                                            }
+                                                                                                        );
+                                                                                                    };
+                                                                                                    "id_espacio" = 10;
+                                                                                                    nombre = "Sala apto";
+                                                                                                    "x_coord" = 500;
+                                                                                                    "y_coord" = 300;
+                                                                                                };
+                                                                                                key = 9;
+                                                                                            },
+                                                                                                                                                                                        {
+                                                                                                espacio =                                                                                                 {
+                                                                                                    actualizado = "2012-08-08 14:55:58";
+                                                                                                    caras =                                                                                                     {
+                                                                                                        item =                                                                                                         (
+                                                                                                                                                                                                                        {
+                                                                                                                cara = front;
+                                                                                                                "id_imagen" = "finishImage_1";
+                                                                                                                imagen = "http://www.ekoomedia.com.co/ekoobot3d/web/files/images/caras/1.jpg";
+                                                                                                            },
+                                                                                                                                                                                                                        {
+                                                                                                                cara = right;
+                                                                                                                "id_imagen" = "finishImage_2";
+                                                                                                                imagen = "http://www.ekoomedia.com.co/ekoobot3d/web/files/images/caras/2.jpg";
+                                                                                                            },
+                                                                                                                                                                                                                        {
+                                                                                                                cara = back;
+                                                                                                                "id_imagen" = "finishImage_3";
+                                                                                                                imagen = "http://www.ekoomedia.com.co/ekoobot3d/web/files/images/caras/3.jpg";
+                                                                                                            },
+                                                                                                                                                                                                                        {
+                                                                                                                cara = left;
+                                                                                                                "id_imagen" = "finishImage_4";
+                                                                                                                imagen = "http://www.ekoomedia.com.co/ekoobot3d/web/files/images/caras/4.jpg";
+                                                                                                            },
+                                                                                                                                                                                                                        {
+                                                                                                                cara = top;
+                                                                                                                "id_imagen" = "finishImage_5";
+                                                                                                                imagen = "http://www.ekoomedia.com.co/ekoobot3d/web/files/images/caras/5.jpg";
+                                                                                                            },
+                                                                                                                                                                                                                        {
+                                                                                                                cara = down;
+                                                                                                                "id_imagen" = "finishImage_6";
+                                                                                                                imagen = "http://www.ekoomedia.com.co/ekoobot3d/web/files/images/caras/6.jpg";
+                                                                                                            }
+                                                                                                        );
+                                                                                                    };
+                                                                                                    "id_espacio" = 11;
+                                                                                                    nombre = "Comedor apto";
+                                                                                                    "x_coord" = 200;
+                                                                                                    "y_coord" = 300;
+                                                                                                };
+                                                                                                key = 10;
+                                                                                            }
+                                                                                        );
+                                                                                    };
+                                                                                    "id_planta" = 7;
+                                                                                    map = "http://www.ekoomedia.com.co/ekoobot3d/web/files/images/01/Tipo_de_Plantas/planta1.jpg";
+                                                                                };
+                                                                            },
+                                                                                                                                                        {
+                                                                                key = 9;
+                                                                                planta =                                                                                 {
+                                                                                    espacios =                                                                                     {
+                                                                                        item =                                                                                         (
+                                                                                                                                                                                        {
+                                                                                                espacio =                                                                                                 {
+                                                                                                    actualizado = "2012-08-08 14:55:58";
+                                                                                                    caras =                                                                                                     {
+                                                                                                        item =                                                                                                         (
+                                                                                                                                                                                                                        {
+                                                                                                                cara = front;
+                                                                                                                "id_imagen" = "finishImage_1";
+                                                                                                                imagen = "http://www.ekoomedia.com.co/ekoobot3d/web/files/images/caras/1.jpg";
+                                                                                                            },
+                                                                                                                                                                                                                        {
+                                                                                                                cara = right;
+                                                                                                                "id_imagen" = "finishImage_2";
+                                                                                                                imagen = "http://www.ekoomedia.com.co/ekoobot3d/web/files/images/caras/2.jpg";
+                                                                                                            },
+                                                                                                                                                                                                                        {
+                                                                                                                cara = back;
+                                                                                                                "id_imagen" = "finishImage_3";
+                                                                                                                imagen = "http://www.ekoomedia.com.co/ekoobot3d/web/files/images/caras/3.jpg";
+                                                                                                            },
+                                                                                                                                                                                                                        {
+                                                                                                                cara = left;
+                                                                                                                "id_imagen" = "finishImage_4";
+                                                                                                                imagen = "http://www.ekoomedia.com.co/ekoobot3d/web/files/images/caras/4.jpg";
+                                                                                                            },
+                                                                                                                                                                                                                        {
+                                                                                                                cara = top;
+                                                                                                                "id_imagen" = "finishImage_5";
+                                                                                                                imagen = "http://www.ekoomedia.com.co/ekoobot3d/web/files/images/caras/5.jpg";
+                                                                                                            },
+                                                                                                                                                                                                                        {
+                                                                                                                cara = down;
+                                                                                                                "id_imagen" = "finishImage_6";
+                                                                                                                imagen = "http://www.ekoomedia.com.co/ekoobot3d/web/files/images/caras/6.jpg";
+                                                                                                            }
+                                                                                                        );
+                                                                                                    };
+                                                                                                    "id_espacio" = 12;
+                                                                                                    nombre = "Sala apto2";
+                                                                                                    "x_coord" = 500;
+                                                                                                    "y_coord" = 360;
+                                                                                                };
+                                                                                                key = 11;
+                                                                                            },
+                                                                                                                                                                                        {
+                                                                                                espacio =                                                                                                 {
+                                                                                                    actualizado = "2012-08-08 14:55:58";
+                                                                                                    caras =                                                                                                     {
+                                                                                                        item =                                                                                                         (
+                                                                                                                                                                                                                        {
+                                                                                                                cara = front;
+                                                                                                                "id_imagen" = "finishImage_1";
+                                                                                                                imagen = "http://www.ekoomedia.com.co/ekoobot3d/web/files/images/caras/1.jpg";
+                                                                                                            },
+                                                                                                                                                                                                                        {
+                                                                                                                cara = right;
+                                                                                                                "id_imagen" = "finishImage_2";
+                                                                                                                imagen = "http://www.ekoomedia.com.co/ekoobot3d/web/files/images/caras/2.jpg";
+                                                                                                            },
+                                                                                                                                                                                                                        {
+                                                                                                                cara = back;
+                                                                                                                "id_imagen" = "finishImage_3";
+                                                                                                                imagen = "http://www.ekoomedia.com.co/ekoobot3d/web/files/images/caras/3.jpg";
+                                                                                                            },
+                                                                                                                                                                                                                        {
+                                                                                                                cara = left;
+                                                                                                                "id_imagen" = "finishImage_4";
+                                                                                                                imagen = "http://www.ekoomedia.com.co/ekoobot3d/web/files/images/caras/4.jpg";
+                                                                                                            },
+                                                                                                                                                                                                                        {
+                                                                                                                cara = top;
+                                                                                                                "id_imagen" = "finishImage_5";
+                                                                                                                imagen = "http://www.ekoomedia.com.co/ekoobot3d/web/files/images/caras/5.jpg";
+                                                                                                            },
+                                                                                                                                                                                                                        {
+                                                                                                                cara = down;
+                                                                                                                "id_imagen" = "finishImage_6";
+                                                                                                                imagen = "http://www.ekoomedia.com.co/ekoobot3d/web/files/images/caras/6.jpg";
+                                                                                                            }
+                                                                                                        );
+                                                                                                    };
+                                                                                                    "id_espacio" = 13;
+                                                                                                    nombre = "Comedro apt2";
+                                                                                                    "x_coord" = 560;
+                                                                                                    "y_coord" = 895;
+                                                                                                };
+                                                                                                key = 12;
+                                                                                            }
+                                                                                        );
+                                                                                    };
+                                                                                    "id_planta" = 8;
+                                                                                    map = "http://www.ekoomedia.com.co/ekoobot3d/web/files/images/01/Tipo_de_Plantas/planta1.jpg";
+                                                                                };
+                                                                            }
+                                                                        );
+                                                                    };
+                                                                    tipo = Casa;
+                                                                    "x_coord" = 500;
+                                                                    "y_coord" = 400;
+                                                                };
+                                                            };
+                                                        };
+                                                    };
+                                                };
+                                            };
+                                            "x_coord" = 200;
+                                            "y_coord" = 300;
+                                        };
+                                        key = 0;
+                                    },
+                                                                        {
+                                        grupo =                                         {
+                                            existe = 0;
+                                            "id_grupo" = "urbanizationspaces_2";
+                                            nombre = Golf;
+                                            "pisos_tipo" =                                             {
+                                                item =                                                 {
+                                                    key = 0;
+                                                    "piso_tipo" =                                                     {
+                                                        actualizado =                                                         {
+                                                            "@xsi:nil" = true;
+                                                        };
+                                                        existe = 0;
+                                                        "id_piso_tipo" = "floors_areacomun_2";
+                                                        map =                                                         {
+                                                            "@xsi:nil" = true;
+                                                        };
+                                                        productos =                                                         {
+                                                            item =                                                             {
+                                                                key = 0;
+                                                                producto =                                                                 {
+                                                                    actualizado =                                                                     {
+                                                                        "@xsi:nil" = true;
+                                                                    };
+                                                                    area =                                                                     {
+                                                                        "@xsi:nil" = true;
+                                                                    };
+                                                                    "id_producto" = "products_areacomun_2";
+                                                                    nombre =                                                                     {
+                                                                        "@xsi:nil" = true;
+                                                                    };
+                                                                    plantas =                                                                     {
+                                                                        item =                                                                         {
+                                                                            key = 10;
+                                                                            planta =                                                                             {
+                                                                                espacios =                                                                                 {
+                                                                                    item =                                                                                     {
+                                                                                        espacio =                                                                                         {
+                                                                                            actualizado = "2012-08-14 15:02:56";
+                                                                                            caras =                                                                                             {
+                                                                                                item =                                                                                                 (
+                                                                                                                                                                                                        {
+                                                                                                        cara = front;
+                                                                                                        "id_imagen" = "urbanizationImage_7";
+                                                                                                        imagen = "http://www.ekoomedia.com.co/ekoobot3d/web/files/images/caras/1.jpg";
+                                                                                                    },
+                                                                                                                                                                                                        {
+                                                                                                        cara = right;
+                                                                                                        "id_imagen" = "urbanizationImage_8";
+                                                                                                        imagen = "http://www.ekoomedia.com.co/ekoobot3d/web/files/images/caras/2.jpg";
+                                                                                                    },
+                                                                                                                                                                                                        {
+                                                                                                        cara = back;
+                                                                                                        "id_imagen" = "urbanizationImage_9";
+                                                                                                        imagen = "http://www.ekoomedia.com.co/ekoobot3d/web/files/images/caras/3.jpg";
+                                                                                                    },
+                                                                                                                                                                                                        {
+                                                                                                        cara = left;
+                                                                                                        "id_imagen" = "urbanizationImage_10";
+                                                                                                        imagen = "http://www.ekoomedia.com.co/ekoobot3d/web/files/images/caras/4.jpg";
+                                                                                                    },
+                                                                                                                                                                                                        {
+                                                                                                        cara = top;
+                                                                                                        "id_imagen" = "urbanizationImage_11";
+                                                                                                        imagen = "http://www.ekoomedia.com.co/ekoobot3d/web/files/images/caras/5.jpg";
+                                                                                                    }
+                                                                                                );
+                                                                                            };
+                                                                                            "id_espacio" = "space_areacomun_2";
+                                                                                            nombre = Golf;
+                                                                                            "x_coord" =                                                                                             {
+                                                                                                "@xsi:nil" = true;
+                                                                                            };
+                                                                                            "y_coord" =                                                                                             {
+                                                                                                "@xsi:nil" = true;
+                                                                                            };
+                                                                                        };
+                                                                                        key = 13;
+                                                                                    };
+                                                                                };
+                                                                                "id_planta" = "plants_areacomun_2";
+                                                                                map =                                                                                 {
+                                                                                    "@xsi:nil" = true;
+                                                                                };
+                                                                            };
+                                                                        };
+                                                                    };
+                                                                    tipo =                                                                     {
+                                                                        "@xsi:nil" = true;
+                                                                    };
+                                                                    "x_coord" =                                                                     {
+                                                                        "@xsi:nil" = true;
+                                                                    };
+                                                                    "y_coord" =                                                                     {
+                                                                        "@xsi:nil" = true;
+                                                                    };
+                                                                };
+                                                            };
+                                                        };
+                                                    };
+                                                };
+                                            };
+                                            "x_coord" = 700;
+                                            "y_coord" = 500;
+                                        };
+                                        key = 1;
+                                    }
+                                );
+                            };
+                            "id_urbanizacion" = 6;
+                            planta = "http://www.ekoomedia.com.co/ekoobot3d/web/files/images/urbanizations/urbanismo.jpg";
+                        };
+                    };
+                },
+				{
+                    key = 4;
+                    proyecto ={
+                        actualizado = "2012-08-21 16:10:26";
+                        "id_proyecto" = "projects_5";
+                        imagen = "http://www.ekoomedia.com.co/ekoobot3d/web/files/images/project/1712528223.jpg";
+                        logo = "http://www.ekoomedia.com.co/ekoobot3d/web/files/images/project/429442596.jpg";
+                        nombre = torresa;
+                        "planta_urbana" =                         {
+                            actualizado = "2012-08-14 15:45:09";
+                            existe = 1;
+                            grupos =                             {
+                                item =                                 (
+                                                                        {
+                                        grupo =                                         {
+                                            existe = 1;
+                                            "id_grupo" = "groups_6";
+                                            nombre = objetk;
+                                            "pisos_tipo" =                                             {
+                                                item =                                                 {
+                                                    key = 0;
+                                                    "piso_tipo" =                                                     {
+                                                        actualizado = "2012-08-16 16:11:38";
+                                                        existe = 1;
+                                                        "id_piso_tipo" = "floors_5";
+                                                        map = "http://www.ekoomedia.com.co/ekoobot3d/web/files/images/01/Tipo_de_Pisos/tipo_piso1.jpg";
+                                                        productos =                                                         {
+                                                            item =                                                             {
+                                                                key = 0;
+                                                                producto =                                                                 {
+                                                                    actualizado = "2012-08-17 11:27:06";
+                                                                    area = 1000mt2;
+                                                                    "id_producto" = "products_5";
+                                                                    nombre = "Apto 1";
+                                                                    plantas =                                                                     {
+                                                                        item =                                                                         {
+                                                                            key = 11;
+                                                                            planta =                                                                             {
+                                                                                "id_planta" = 9;
+                                                                                map = "http://www.ekoomedia.com.co/ekoobot3d/web/files/images/01/Tipo_de_Plantas/planta1.jpg";
+                                                                            };
+                                                                        };
+                                                                    };
+                                                                    tipo = Apto;
+                                                                    "x_coord" = 200;
+                                                                    "y_coord" = 100;
+                                                                };
+                                                            };
+                                                        };
+                                                    };
+                                                };
+                                            };
+                                            "x_coord" = 500;
+                                            "y_coord" = 600;
+                                        };
+                                        key = 0;
+                                    },
+                                                                        {
+                                        grupo =                                         {
+                                            existe = 1;
+                                            "id_grupo" = "groups_7";
+                                            nombre = "objetk 2";
+                                            "pisos_tipo" =                                             {
+                                                item =                                                 {
+                                                    key = 0;
+                                                    "piso_tipo" =                                                     {
+                                                        actualizado = "2012-08-16 16:11:38";
+                                                        existe = 1;
+                                                        "id_piso_tipo" = "floors_6";
+                                                        map = "http://www.ekoomedia.com.co/ekoobot3d/web/files/images/01/Tipo_de_Pisos/tipo_piso1.jpg";
+                                                    };
+                                                };
+                                            };
+                                            "x_coord" = 200;
+                                            "y_coord" = 300;
+                                        };
+                                        key = 1;
+                                    }
+                                );
+                            };
+                            "id_urbanizacion" = 7;
+                            planta = "http://www.ekoomedia.com.co/ekoobot3d/web/files/images/urbanizations/urbanismo.jpg";
+                        };
+                    };
+                }
+            );
+        };
+    };
+}
